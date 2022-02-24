@@ -1,4 +1,5 @@
 // generate a 10x10 board
+// tiles are A-J for columns, and 1-10 for rows
 const generateBoard = () => {
 
   const board = [];
